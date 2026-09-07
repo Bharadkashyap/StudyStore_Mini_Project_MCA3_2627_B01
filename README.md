@@ -2,7 +2,7 @@
 
 ### Online Stationery Shopping System
 
-> A full-stack **MERN-based online stationery shopping platform** developed as an MCA Mini Project at Marwadi University.
+> A full-stack **MERN-based online stationery shopping platform** developed as an MCA Project at Marwadi University.
 
 ---
 
