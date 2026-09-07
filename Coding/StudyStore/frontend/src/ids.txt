@@ -1,0 +1,11 @@
+admin
+email:kashyap@gmail.com
+password:Kashyap07
+
+
+
+
+token:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhMzY1MmI0OGJhZDJjOTU2N
+zVmY2M3ZSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4NjI5Mzg1MiwiZXhwIjoxNzg2ODk
+4NjUyfQ.jkbaJBhg-dsvbHGW8QbHV6yWk-QbwYasKt50BuXlfVM
