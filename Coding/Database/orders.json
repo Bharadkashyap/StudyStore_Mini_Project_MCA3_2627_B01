@@ -1,0 +1,1279 @@
+[{
+  "_id": {
+    "$oid": "6a6d81fd1c4c848f2b4f57b4"
+  },
+  "user": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a6d81fd1c4c848f2b4f57b5"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6a6d7fc51c4c848f2b4f57b0"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a6d81fd1c4c848f2b4f57b6"
+      }
+    }
+  ],
+  "totalAmount": 209,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "rajkot",
+    "city": "Rajkot",
+    "state": "gujart",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "status": "Delivered",
+  "createdAt": {
+    "$date": "2026-08-01T05:19:57.689Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-01T05:20:18.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a77405a94ddf048f763107f"
+  },
+  "user": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a77405a94ddf048f7631080"
+      }
+    }
+  ],
+  "totalAmount": 199,
+  "address": {
+    "name": "Chiarg",
+    "phone": "8855446699",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "361234"
+  },
+  "paymentMethod": "UPI",
+  "status": "Shipped",
+  "createdAt": {
+    "$date": "2026-08-08T14:42:34.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-08T15:55:04.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a77514a94ddf048f76310bf"
+  },
+  "user": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a77514a94ddf048f76310c0"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a77514a94ddf048f76310c1"
+      }
+    }
+  ],
+  "totalAmount": 209,
+  "address": {
+    "name": "dhaval",
+    "phone": "9988775544",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Credit Card",
+  "status": "Delivered",
+  "createdAt": {
+    "$date": "2026-08-08T15:54:50.546Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-16T06:23:26.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a78026306bd15447cd158af"
+  },
+  "user": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7fc51c4c848f2b4f57b0"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a78026306bd15447cd158b0"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "raj",
+    "phone": "9988775544",
+    "address": "rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-09T04:30:27.351Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-09T04:30:27.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7815ac489e23d7d9498a87"
+  },
+  "user": {
+    "$oid": "6a7813f0489e23d7d9498a84"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7fc51c4c848f2b4f57b0"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a7815ac489e23d7d9498a88"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "Teter2",
+    "phone": "9988775544",
+    "address": "rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360001"
+  },
+  "paymentMethod": "UPI",
+  "status": "Shipped",
+  "createdAt": {
+    "$date": "2026-08-09T05:52:44.491Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-16T06:23:12.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a781a0c489e23d7d9498aab"
+  },
+  "user": {
+    "$oid": "6a7813f0489e23d7d9498a84"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "6a781a0c489e23d7d9498aac"
+      }
+    }
+  ],
+  "totalAmount": 597,
+  "address": {
+    "name": "Teter2",
+    "phone": "9988775544",
+    "address": "rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360008"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "status": "Shipped",
+  "createdAt": {
+    "$date": "2026-08-09T06:11:24.607Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-16T06:23:15.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a79384324781c244770c152"
+  },
+  "user": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a79384324781c244770c153"
+      }
+    }
+  ],
+  "totalAmount": 199,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "status": "Shipped",
+  "createdAt": {
+    "$date": "2026-08-10T02:32:35.911Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-16T06:23:20.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a5878a45d77f1700175461d"
+  },
+  "user": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a5878a45d77f1700175461e"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a5878a45d77f1700175461f"
+      }
+    }
+  ],
+  "totalAmount": 209,
+  "address": {
+    "name": "Chirag",
+    "phone": "9979165590",
+    "address": "anandpar navagam,rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360001"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2026-07-16T06:22:28.860Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-11T13:10:11.368Z"
+  },
+  "__v": 0,
+  "cancellationReason": "Cancelled by customer",
+  "couponCode": "",
+  "discountAmount": 0,
+  "paymentId": "",
+  "paymentStatus": "Pending",
+  "subtotal": 0,
+  "cancelledAt": {
+    "$date": "2026-08-11T13:10:11.359Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a7954b7fbbff0958746d367"
+  },
+  "user": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a7954b7fbbff0958746d368"
+      }
+    }
+  ],
+  "totalAmount": 199,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "gujart",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-10T04:33:59.531Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-10T04:33:59.531Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a79790831013ae554595cf7"
+  },
+  "user": {
+    "$oid": "6a79784031013ae554595cf5"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a79790831013ae554595cf8"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "Tester3",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "status": "Shipped",
+  "createdAt": {
+    "$date": "2026-08-10T07:08:56.478Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-10T07:09:27.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a79cfe13ec2c223cbbc2b93"
+  },
+  "user": {
+    "$oid": "6a79cf983ec2c223cbbc2b8f"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a79cfe13ec2c223cbbc2b94"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 10,
+  "paymentStatus": "Pending",
+  "paymentId": "",
+  "cancellationReason": "Cancelled by customer",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2026-08-10T13:19:29.190Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-10T13:21:36.982Z"
+  },
+  "__v": 0,
+  "cancelledAt": {
+    "$date": "2026-08-10T13:21:36.981Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a79d0f93ec2c223cbbc2bfb"
+  },
+  "user": {
+    "$oid": "6a79cf983ec2c223cbbc2b8f"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a79d0f93ec2c223cbbc2bfc"
+      }
+    }
+  ],
+  "totalAmount": 199,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 199,
+  "paymentStatus": "Pending",
+  "paymentId": "",
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-10T13:24:09.876Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-10T13:24:09.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7b1f593679749b9af8e2cf"
+  },
+  "user": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7fc51c4c848f2b4f57b0"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "6a7b1f593679749b9af8e2d0"
+      }
+    }
+  ],
+  "totalAmount": 30,
+  "address": {
+    "name": "Kashyap",
+    "phone": "9988775544",
+    "address": "Ahmedabad",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "pincode": "3100007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 30,
+  "paymentStatus": "Pending",
+  "paymentId": "",
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-11T13:10:49.383Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-11T13:10:49.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7f425381fbc7a57a3fa17e"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "6a7f425381fbc7a57a3fa17f"
+      }
+    }
+  ],
+  "totalAmount": 398,
+  "address": {
+    "name": "Admin",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "PayPal",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 398,
+  "paymentStatus": "Refunded",
+  "paymentId": "",
+  "paidAt": {
+    "$date": "2026-08-14T16:29:07.429Z"
+  },
+  "cancellationReason": "Cancelled by customer",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2026-08-14T16:29:07.473Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-14T16:29:15.635Z"
+  },
+  "__v": 0,
+  "cancelledAt": {
+    "$date": "2026-08-14T16:29:15.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a7f430481fbc7a57a3fa187"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a7f430481fbc7a57a3fa188"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "Admin",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 10,
+  "paymentStatus": "Paid",
+  "paymentId": "",
+  "cancellationReason": "",
+  "status": "Delivered",
+  "createdAt": {
+    "$date": "2026-08-14T16:32:04.746Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-14T16:34:55.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a852ffc48287f49e3787559"
+  },
+  "user": {
+    "$oid": "6a852fbe48287f49e3787557"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a852ffc48287f49e378755a"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "Nikhil",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "PayPal",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 10,
+  "paymentStatus": "Paid",
+  "paymentId": "",
+  "paidAt": {
+    "$date": "2026-08-19T04:24:28.088Z"
+  },
+  "cancellationReason": "",
+  "status": "Shipped",
+  "createdAt": {
+    "$date": "2026-08-19T04:24:28.098Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-19T04:26:16.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8881c68457f9693f5cc191"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "6a8881c68457f9693f5cc192"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "6a8881c68457f9693f5cc193"
+      }
+    }
+  ],
+  "totalAmount": 627,
+  "address": {
+    "name": "Admin",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 627,
+  "paymentStatus": "Pending",
+  "paymentId": "",
+  "razorpayOrderId": "",
+  "razorpaySignature": "",
+  "cancellationReason": "Cancelled by customer",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2026-08-21T16:50:14.118Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-21T16:59:37.024Z"
+  },
+  "__v": 0,
+  "cancelledAt": {
+    "$date": "2026-08-21T16:59:36.994Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a88820e8457f9693f5cc1b5"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7fc51c4c848f2b4f57b0"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a88820e8457f9693f5cc1b6"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "Admin",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 10,
+  "paymentStatus": "Pending",
+  "paymentId": "",
+  "razorpayOrderId": "",
+  "razorpaySignature": "",
+  "cancellationReason": "Cancelled by customer",
+  "status": "Cancelled",
+  "createdAt": {
+    "$date": "2026-08-21T16:51:26.324Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-21T16:51:46.922Z"
+  },
+  "__v": 0,
+  "cancelledAt": {
+    "$date": "2026-08-21T16:51:46.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a89090f452aa2e475b2dc59"
+  },
+  "user": {
+    "$oid": "6a886a8ef950bf2cb37f9b0f"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8908aa452aa2e475b2dc55"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6a6d7fc51c4c848f2b4f57b0"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8908aa452aa2e475b2dc56"
+      }
+    }
+  ],
+  "totalAmount": 209,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 209,
+  "paymentStatus": "Paid",
+  "paymentId": "pay_TSeNUB6ty0ln52",
+  "razorpayOrderId": "order_TSeMAdUTfM6U9q",
+  "razorpaySignature": "5335fa0a53c6b0cfadb91ab33f30060522fe380b24d1b0b96a8e81a33e04dbf2",
+  "paidAt": {
+    "$date": "2026-08-22T02:27:27.374Z"
+  },
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-22T02:27:27.379Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-22T02:27:27.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8909c6452aa2e475b2dc68"
+  },
+  "user": {
+    "$oid": "6a886a8ef950bf2cb37f9b0f"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a890964452aa2e475b2dc66"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 10,
+  "paymentStatus": "Paid",
+  "paymentId": "pay_TSeQjWuMTpN9HR",
+  "razorpayOrderId": "order_TSePRnsFF8ERUv",
+  "razorpaySignature": "fe449c5c63a7329cfc4e3e1040366c2eb55aafda809cb050de788edc19ea71c0",
+  "paidAt": {
+    "$date": "2026-08-22T02:30:30.880Z"
+  },
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-22T02:30:30.882Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-22T02:30:30.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8919ea52a21bc490257dde"
+  },
+  "user": {
+    "$oid": "6a886a8ef950bf2cb37f9b0f"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8919b152a21bc490257ddc"
+      }
+    }
+  ],
+  "totalAmount": 199,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 199,
+  "paymentStatus": "Paid",
+  "paymentId": "pay_TSfbZrGRnu7B54",
+  "razorpayOrderId": "order_TSfauujCPbB0C4",
+  "razorpaySignature": "c860ae04f71d5cc89534d1eab15e4801847b670612a8827c10ac9552d7fc0ebb",
+  "paidAt": {
+    "$date": "2026-08-22T03:39:22.836Z"
+  },
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-22T03:39:22.841Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-22T03:39:22.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8ac1274313f0ba9c02e0eb"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8ac1274313f0ba9c02e0ec"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8ac1274313f0ba9c02e0ed"
+      }
+    }
+  ],
+  "totalAmount": 209,
+  "address": {
+    "name": "Admin",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 209,
+  "paymentStatus": "Pending",
+  "paymentId": "",
+  "razorpayOrderId": "",
+  "razorpaySignature": "",
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-23T09:45:11.298Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-23T09:45:11.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8ac1424313f0ba9c02e0fd"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8ac1424313f0ba9c02e0fe"
+      }
+    }
+  ],
+  "totalAmount": 10,
+  "address": {
+    "name": "Admin",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 10,
+  "paymentStatus": "Pending",
+  "paymentId": "",
+  "razorpayOrderId": "",
+  "razorpaySignature": "",
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-23T09:45:38.811Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-23T09:45:38.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8ac7e8b62403ab3c8447a0"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "6a8ac7e8b62403ab3c8447a1"
+      }
+    }
+  ],
+  "totalAmount": 358,
+  "address": {
+    "name": "Admin",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "WELCOME10",
+  "discountAmount": 40,
+  "subtotal": 398,
+  "paymentStatus": "Pending",
+  "paymentId": "",
+  "razorpayOrderId": "",
+  "razorpaySignature": "",
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-23T10:14:00.273Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-23T10:14:00.273Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8bde3f04d3ec2422e49017"
+  },
+  "user": {
+    "$oid": "6a886a8ef950bf2cb37f9b0f"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "6a8bddc904d3ec2422e49015"
+      }
+    }
+  ],
+  "totalAmount": 30,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 30,
+  "paymentStatus": "Paid",
+  "paymentId": "pay_TTV61JjP0o1i2N",
+  "razorpayOrderId": "order_TTV4JuqHET9uK7",
+  "razorpaySignature": "b7fe6510e592c93e3f2538a421c62d8352ce354d1b356283f9bf4b98393ac11a",
+  "paidAt": {
+    "$date": "2026-08-24T06:01:35.494Z"
+  },
+  "cancellationReason": "",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-08-24T06:01:35.497Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-24T06:01:35.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8be16cb6c1b7640cfdc2f0"
+  },
+  "user": {
+    "$oid": "6a886a8ef950bf2cb37f9b0f"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8be12eb6c1b7640cfdc2ec"
+      }
+    },
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8be12eb6c1b7640cfdc2ed"
+      }
+    }
+  ],
+  "totalAmount": 20,
+  "address": {
+    "name": "Dhaval Parmar",
+    "phone": "9313198011",
+    "address": "Rajkot",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 20,
+  "paymentStatus": "Paid",
+  "paymentId": "pay_TTVKDtAPIcBljn",
+  "razorpayOrderId": "order_TTVJcJnu44G6w8",
+  "razorpaySignature": "e9c31395b47e57a143051aef797e9976e16b585d0ee98819ec6858006cca7e34",
+  "paidAt": {
+    "$date": "2026-08-24T06:15:08.197Z"
+  },
+  "cancellationReason": "",
+  "status": "Confirmed",
+  "createdAt": {
+    "$date": "2026-08-24T06:15:08.201Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-24T06:17:10.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8d3283bd27628251c80b94"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d78518bd46b4a86d0ddf7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "6a8d3283bd27628251c80b95"
+      }
+    }
+  ],
+  "totalAmount": 179,
+  "address": {
+    "name": "Kashyap",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "Cash On Delivery",
+  "couponCode": "WELCOME10",
+  "discountAmount": 20,
+  "subtotal": 199,
+  "paymentStatus": "Paid",
+  "paymentId": "",
+  "razorpayOrderId": "",
+  "razorpaySignature": "",
+  "cancellationReason": "",
+  "status": "Delivered",
+  "createdAt": {
+    "$date": "2026-08-25T06:13:23.791Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-25T06:14:40.978Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2026-08-25T06:14:40.977Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a8d3441bd27628251c80d27"
+  },
+  "user": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "products": [
+    {
+      "product": {
+        "$oid": "6a6d7c13540b61feea4e5aa2"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "6a8d33edbd27628251c80d25"
+      }
+    }
+  ],
+  "totalAmount": 20,
+  "address": {
+    "name": "Kashyap",
+    "phone": "9988776655",
+    "address": "Ramapir chowk ",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pincode": "360007"
+  },
+  "paymentMethod": "UPI",
+  "couponCode": "",
+  "discountAmount": 0,
+  "subtotal": 20,
+  "paymentStatus": "Paid",
+  "paymentId": "pay_TTtxPfdZsE53oW",
+  "razorpayOrderId": "order_TTtwNvDPUJpRCZ",
+  "razorpaySignature": "7902b292ae5671c9915a3725a477aca6a10fb302c7960374bd758eead143b807",
+  "paidAt": {
+    "$date": "2026-08-25T06:20:49.787Z"
+  },
+  "cancellationReason": "",
+  "status": "Confirmed",
+  "createdAt": {
+    "$date": "2026-08-25T06:20:49.789Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-25T06:21:07.319Z"
+  },
+  "__v": 0
+}]

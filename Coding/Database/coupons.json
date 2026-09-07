@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6a7f5ef44b217b5434666c7f"
+  },
+  "code": "WELCOME10",
+  "type": "percent",
+  "value": 10,
+  "minOrder": 50,
+  "maxDiscount": 0,
+  "active": true,
+  "expiresAt": {
+    "$date": "2026-09-14T18:30:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-08-14T18:31:16.972Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-14T18:31:16.972Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a8d3258bd27628251c80b93"
+  },
+  "code": "SUNDAY",
+  "type": "percent",
+  "value": 100,
+  "minOrder": 700,
+  "maxDiscount": 1,
+  "active": true,
+  "expiresAt": {
+    "$date": "2026-08-31T06:12:00.000Z"
+  },
+  "createdAt": {
+    "$date": "2026-08-25T06:12:40.843Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-25T06:12:40.843Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "6a3652b48bad2c95675fcc7e"
+  },
+  "name": "Kashyap",
+  "email": "kashyap@gmail.com",
+  "password": "$2b$10$KM90QVuD0AWmixhcjuXZuOkLvyblg3OK6CE5f7xwXKkgvmhsE6Ft2",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2026-06-20T08:43:32.312Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-10T04:18:07.315Z"
+  },
+  "__v": 0,
+  "address": "Ahmedabad",
+  "city": "Ahmedabad",
+  "phone": "9988775544",
+  "pincode": "3100007",
+  "state": "Gujarat",
+  "resetPasswordExpire": {
+    "$date": "2026-08-10T04:33:07.309Z"
+  },
+  "resetPasswordToken": "1759490d77c07cbe9d5375401e35a5d70ca44270f0d3ffc8f70d8d605db903c5"
+},
+{
+  "_id": {
+    "$oid": "6a45262aa1891d00e436c3cb"
+  },
+  "name": "Dhaval Parmar2",
+  "email": "gentlefitproject@gmail.com",
+  "password": "$2b$10$OqAhGtyfa7MuPTAFg8yCU.a7lvufd5sb5hFxHUuTqReZTG9uRqaHa",
+  "resetPasswordToken": "",
+  "phone": "",
+  "address": "",
+  "city": "",
+  "state": "",
+  "pincode": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2026-07-01T14:37:30.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-01T15:34:41.951Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7813f0489e23d7d9498a84"
+  },
+  "name": "Tester2",
+  "email": "Tester2@gmail.com",
+  "password": "$2b$10$Hniuiy9dba2cLOj8O5wzMuv0ORmfXgcYXaaXN9gjCKE6Jz5SEpQtK",
+  "resetPasswordToken": "",
+  "phone": "8899775544",
+  "address": "Ahmedabad",
+  "city": "Ahmedabad",
+  "state": "Gujarat",
+  "pincode": "320009",
+  "role": "user",
+  "createdAt": {
+    "$date": "2026-08-09T05:45:20.887Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-09T05:51:52.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a7f420b81fbc7a57a3fa17b"
+  },
+  "name": "Kashyap",
+  "email": "bharadkashyap5@gmail.com",
+  "password": "$2b$10$y3bEo9IOkqvoAvqakODihOWuczUiChEcRI5od0ZuE09ccS.DcGxSa",
+  "resetPasswordToken": "",
+  "phone": "9988776655",
+  "address": "Ramapir chowk ",
+  "city": "Rajkot",
+  "state": "Gujarat",
+  "pincode": "360007",
+  "role": "user",
+  "createdAt": {
+    "$date": "2026-08-14T16:27:55.693Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-25T06:09:39.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a886a8ef950bf2cb37f9b0f"
+  },
+  "name": "Dhaval Parmar",
+  "email": "dp6045463@gmail.com",
+  "password": "$2b$10$5AzBCUlAlEuEmzxL.pc8Q.vFqLTgdDVcw.dafyVhD.ncwIXMY/eTu",
+  "resetPasswordToken": "",
+  "phone": "9313198011",
+  "address": "Rajkot",
+  "city": "Rajkot",
+  "state": "Gujarat",
+  "pincode": "360007",
+  "role": "user",
+  "createdAt": {
+    "$date": "2026-08-21T15:11:10.649Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-21T15:11:10.649Z"
+  },
+  "__v": 0
+}]
